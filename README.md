@@ -1,3 +1,3 @@
 # internationalization-of-applications
 Тема 6 "Интернационализация приложений"
-![Screenshot](Тема6,1.jpg)
+![Screenshot](Тема6.1.png)
