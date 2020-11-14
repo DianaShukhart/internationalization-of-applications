@@ -9,7 +9,7 @@ import java.io.UnsupportedEncodingException;
 import java.util.Locale;
 import java.util.ResourceBundle;
 
-  
+  //
 public class Questions {
     public static void main(String[] args) throws IOException {
         String country = "", language = "";
