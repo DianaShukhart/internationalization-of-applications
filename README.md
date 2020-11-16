@@ -4,3 +4,5 @@
 
 
 ![Screenshot](Тема6.1.png)
+
+![Screenshot](question.png)
